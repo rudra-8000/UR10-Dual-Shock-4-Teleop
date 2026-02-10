@@ -1,0 +1,3 @@
+ur-rtde
+pyPS4Controller
+numpy
