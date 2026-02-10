@@ -21,7 +21,7 @@ source .venv/bin/activate
 python3 test_connections.py
 ```
 
-3) Run
+4) Run
 ```bash
 python3 ds4_ur10_teleop_2.py
 ```
