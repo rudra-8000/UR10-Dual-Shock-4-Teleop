@@ -16,9 +16,14 @@ Tested on Ubuntu 22.04 + URSim e-Series Docker + DualShock 4 (wired).
 source .venv/bin/activate
 ```
 
+3) Check Connections
+```bash
+python3 test_connections.py
+```
+
 3) Run
 ```bash
-python3 ds4_ur10_teleop.py
+python3 ds4_ur10_teleop_2.py
 ```
 
 ## Notes
