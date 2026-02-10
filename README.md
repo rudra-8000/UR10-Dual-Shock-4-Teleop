@@ -1,6 +1,7 @@
-# UR10 (URSim) Teleop with DS4 (Python, no ROS)
+# UR10 (URSim) Teleop with DS4 (Python)
 
 Tested on Ubuntu 22.04 + URSim e-Series Docker + DualShock 4 (wired).
+Should also work for the actual UR10 robot and maybe other UR robots with some changes.
 
 
 ## Quickstart
